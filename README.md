@@ -37,6 +37,11 @@ Le projet est organisé comme suit :
 - Interface graphique interactive pour visualiser la simulation.
 - Journalisation détaillée des événements (déplacements, reproductions, échecs, etc.).
 - Gestion des obstacles et des interactions entre les bêtes.
+  
+## Qualité et bonnes pratiques
+- Journalisation des événements et erreurs à l’aide de Log4j
+- Tests unitaires JUnit pour valider les comportements clés de la simulation
+- Séparation claire des responsabilités (logique, interface, processus)
 
 ## Prérequis
 
